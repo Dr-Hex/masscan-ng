@@ -129,3 +129,4 @@ install: bin/masscan-ng
 	install $(INSTALL_DATA) bin/masscan-ng $(DESTDIR)$(BINDIR)/masscan-ng
 	
 default: bin/masscan-ng
+
